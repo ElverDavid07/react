@@ -1,8 +1,9 @@
-function App() {
+const App=()=>{
+
   return (
    <>
-   <h1>hello world</h1>
-   <img src="../public/vite.svg" alt="" />
+   <h1 className="text-red-500 text-lg font-bold">hello world</h1>
+
    </>
   )
 }
